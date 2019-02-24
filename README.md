@@ -1,4 +1,8 @@
-# Beholder-GAN
+# Beholder-GAN  
+  
+This is the initial repository for the paper:
+[https://arxiv.org/abs/1902.02593](https://arxiv.org/abs/1902.02593)  
 
-This repository is under construction.  
-This work is on generating human faces using conditioning over their beauty and beautification of faces.
+The updated reppository can be found here:  
+[https://github.com/beholdergan/Beholder-GAN](https://github.com/beholdergan/Beholder-GAN)  
+  
